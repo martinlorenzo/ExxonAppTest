@@ -1,2 +1,0 @@
-# ExxonAppTest
-Created with CodeSandbox
